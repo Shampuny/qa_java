@@ -6,7 +6,7 @@ public class Cat {
 
     Predator predator;
 
-    public Cat(Feline feline) {
+    public Cat(Feline feline) { //Конструктор создает кошку с типом хищник, свойствами класса кошачьих.
         this.predator = feline;
     }
 
